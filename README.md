@@ -1,36 +1,43 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VibeCoded-Portfolio ✦
 
-## Getting Started
+> Built with vibes, not sanity.
 
-First, run the development server:
+A personal portfolio I vibe coded using **Antigravity** + **Whisk** for animations — because why use boring scroll libraries when you can throw physics at it?
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔗 Live Versions
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| Built With | Link |
+| Antigravity + Whisk *(this repo)* | [vercel deploy](https://vibe-coded-portfolio-5r3qchwj1-adityaprakash-03s-projects.vercel.app/) |
+| Lovable *(main portfolio)* | [adityaaaaa.lovable.app](https://adityaaaaa.lovable.app/) |
+| Readdy AI | [pyvljp.readdy.co](https://pyvljp.readdy.co/) |
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ⚡ What's This
 
-To learn more about Next.js, take a look at the following resources:
+Because static portfolios are boring. Because experimenting publicly > planning forever. Because I like testing new AI builders and pushing them beyond templates.
+This repo is part of that playground.
+No overthinking. Just ship.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠 Stack / Tools
 
-## Deploy on Vercel
+- **Antigravity** — for that physics-based animation feel
+- **Whisk** — smooth transitions and gesture-driven motion
+- **Vercel** — deployed in seconds
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
+**Not your regular portfolio. This one is vibe coded.**
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📬 Find Me
+
+**Product + AI curious I build, break, iterate, repeat**
+If you dig the work or want to collab — reach out.
+
+---
+
+*Vibe coded. Zero regrets.*
